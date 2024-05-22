@@ -1,13 +1,13 @@
 ---
 title: "Renovatie"
 excerpt: "renovatie stokrooie"
-coverImage: "/assets/blog/dynamic-routing/bouwwerkendaan.gif"
+coverImage: "/assets/blog/dynamic-routing/logo_bouwwerkendaan.jpeg"
 date: "2024-05-02"
 author:
   name: Daan
   picture: "/assets/blog/authors/Daan.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/bouwwerkendaan.gif"
+  url: "/assets/blog/dynamic-routing/logo_bouwwerkendaan.jpeg"
 ---
 
 # Bouwproject Blogpost: Een Kijkje Achter de Schermen
